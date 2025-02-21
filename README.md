@@ -1,4 +1,6 @@
 # EMBER_LOSANGELES
+(PLEASE REFER TO EMBER) for code base
+
 ### EMBER - Wildfire Evacuation Recommendation System 🔥🆘 (Google Gemini Version)
 EMBER is a life-saving AI-powered system optimized for **Google Gemini**, utilizing real-time data, advanced risk assessment techniques, optimized route planning, and state-of-the-art natural language understanding and generation. It delivers **personalized, actionable evacuation instructions** during critical wildfire emergencies. 🌳🔥🏃‍♂️
 
